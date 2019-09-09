@@ -1,0 +1,8 @@
+com\huntington\cdo\techyouth\rssservice\service\exception\ServerErrorException.class
+com\huntington\cdo\techyouth\rssservice\config\WebConfig.class
+com\huntington\cdo\techyouth\rssservice\service\RssServiceImpl.class
+com\huntington\cdo\techyouth\rssservice\controller\RssServiceController.class
+com\huntington\cdo\techyouth\rssservice\model\Rss.class
+com\huntington\cdo\techyouth\rssservice\config\SwaggerConfig.class
+com\huntington\cdo\techyouth\rssservice\service\RssService.class
+com\huntington\cdo\techyouth\rssservice\RssServiceApplication.class
