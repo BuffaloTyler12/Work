@@ -44,14 +44,13 @@ import com.huntington.cdo.techyouth.rssservice.model.Rss;
 import com.sun.syndication.feed.synd.SyndEntry;
 import com.sun.syndication.feed.synd.SyndFeed;
 import com.sun.syndication.io.SyndFeedInput;
-
+//random comment
 @SpringBootApplication
 public class RssServiceApplication 
 {
 
 	
 	public static void main(String[] args) throws Exception {
-		
 		
 		
 	 	CredentialsProvider credsProvider = new BasicCredentialsProvider();
