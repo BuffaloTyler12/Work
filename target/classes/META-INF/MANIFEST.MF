@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: customer-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: H001046
+Implementation-Vendor-Id: com.huntington.cdo.techyouth
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/customer-service
+Created-By: Maven Integration for Eclipse
+
